@@ -1,4 +1,13 @@
 package com.pluralsight;
 
 public class WhileLoop {
+    static void main() {
+        int counter = 0;
+
+        while (counter < 5){
+            System.out.println("I love Java");
+            counter++;
+
+        }
+    }
 }
